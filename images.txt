@@ -3,3 +3,4 @@ infiniflow/infinity:v0.5.2
 valkey/valkey:8
 nginx
 infiniflow/ragflow:v0.15.1-slim
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
