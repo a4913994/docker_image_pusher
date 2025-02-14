@@ -5,3 +5,4 @@ nginx
 infiniflow/ragflow:v0.15.1-slim
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 postgres:latest
+neo4j:latest
